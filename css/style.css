@@ -10,16 +10,53 @@
     width: 100%;
     height: 5em;
     padding: 1em;
-    margin: 3em;
     content: "";
     display: table;
     clear: both;
-   
 }
 
 .marrone{
     background-color: burlywood;
     width: 100%;
-    height: 5em;
+    height: 15em;
     padding: 1em;
+    content: "";
+    display: table;
+    clear: both;
+}
+
+main{
+    background-color: darkblue;
+    width: 100%;
+    height: 30em;
+}
+
+.azzurro{
+    background-color: darkturquoise;
+}
+
+.box1{
+    width: 20%;
+    height: 5em;
+}
+
+.box2{
+    width: 20%;
+    height: 5em;
+}
+
+.box3{
+    width: 20%;
+    height: 5em;
+}
+
+.box4{
+    width: 20%;
+    height: 5em;
+}
+
+.footerx{
+    background-color: darkviolet;
+    width: 100%;
+    height: 4em;
 }
