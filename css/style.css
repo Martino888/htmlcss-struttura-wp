@@ -9,36 +9,29 @@
     margin-left: 5em;
     margin-right: 5em;
     margin-bottom: 2em;
-
 }
 
 .violet{
-    background-color: rgb(219, 141, 219);
+    background-color: rgb(218, 119, 218);
     width: 100%;
-    height: 4em;
+    height: 5em;
     padding: 1em;
     margin-bottom: 2em;
     
 }
 
 .marrone{
-    background-color: rgb(223, 213, 134);
+    background-color: rgb(231, 219, 126);
     width: 100%;
     height: 15em;
     padding: 1em;
     margin-bottom: 2em;
 }
 
-.main{
+main{
     background-color: rgb(53, 135, 246);
     width: 100%;
     height: 30em;
-}
-
-.main::before{
-    content: "";
-    display: table;
-    clear: both;
 }
 
 .azzurro{
@@ -52,25 +45,24 @@
 .box2{
     width: 20%;
     height: 23em;
-    margin-left: auto;
     margin-top: 1em;
-    float: left;display: inline-block;
+    float: left;
 }
 
 .box3{
-    width: 20%;
+    width: 41.9em;
     height: 23em;
-    margin-left: auto;
     margin-top: 1em;
-    float: right;display: inline-block;
+    margin-left: 1em;
+    float: left; 
 }
 
 .box4{
-    width: 57%;
+    width: 20%;
     height: 23em;
     margin: 1em;
-    
-    display: inline-block;
+    margin-right: 0%;
+    float: right;
 
 }
 
