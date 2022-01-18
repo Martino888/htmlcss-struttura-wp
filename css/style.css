@@ -29,11 +29,16 @@
     margin-bottom: 2em;
 }
 
-main{
+.main{
     background-color: rgb(53, 135, 246);
     width: 100%;
     height: 30em;
-    
+}
+
+.main::before{
+    content: "";
+    display: table;
+    clear: both;
 }
 
 .azzurro{
@@ -42,26 +47,31 @@ main{
 
 .box1{
     height: 5em;
-
-
 }
 
 .box2{
     width: 20%;
-    height: 5em;
-    margin: 1em;
+    height: 23em;
+    margin-left: auto;
+    margin-top: 1em;
+    float: left;display: inline-block;
 }
 
 .box3{
     width: 20%;
-    height: 5em;
-    margin: 1em;
+    height: 23em;
+    margin-left: auto;
+    margin-top: 1em;
+    float: right;display: inline-block;
 }
 
 .box4{
-    width: 20%;
-    height: 5em;
+    width: 57%;
+    height: 23em;
     margin: 1em;
+    
+    display: inline-block;
+
 }
 
 .footerx{
