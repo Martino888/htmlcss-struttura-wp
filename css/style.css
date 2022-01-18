@@ -4,59 +4,68 @@
     box-sizing: border-box;
 }
 
+.container{
+    margin-top:2em ;
+    margin-left: 5em;
+    margin-right: 5em;
+    margin-bottom: 2em;
+
+}
 
 .violet{
     background-color: rgb(219, 141, 219);
     width: 100%;
-    height: 5em;
+    height: 4em;
     padding: 1em;
-    content: "";
-    display: table;
-    clear: both;
+    margin-bottom: 2em;
+    
 }
 
 .marrone{
-    background-color: burlywood;
+    background-color: rgb(223, 213, 134);
     width: 100%;
     height: 15em;
     padding: 1em;
-    content: "";
-    display: table;
-    clear: both;
+    margin-bottom: 2em;
 }
 
 main{
-    background-color: darkblue;
+    background-color: rgb(53, 135, 246);
     width: 100%;
     height: 30em;
+    
 }
 
 .azzurro{
-    background-color: darkturquoise;
+    background-color: rgb(177, 206, 228);
 }
 
 .box1{
-    width: 20%;
     height: 5em;
+
+
 }
 
 .box2{
     width: 20%;
     height: 5em;
+    margin: 1em;
 }
 
 .box3{
     width: 20%;
     height: 5em;
+    margin: 1em;
 }
 
 .box4{
     width: 20%;
     height: 5em;
+    margin: 1em;
 }
 
 .footerx{
-    background-color: darkviolet;
+    background-color:  rgb(124, 43, 244);
     width: 100%;
-    height: 4em;
+    height: 4em;margin-top: 1em;
 }
